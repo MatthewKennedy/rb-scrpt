@@ -1,3 +1,3 @@
 module Appscript
-  Version = "1.0.4"
+  Version = "2.0.0"
 end
