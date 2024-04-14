@@ -1,7 +1,7 @@
 #!/usr/local/bin/ruby -w
 
 require 'minitest/autorun'
-require 'rb-scpt'
+require 'rb-scrpt'
 
 class TC_AppscriptNewApp < Minitest::Test
 

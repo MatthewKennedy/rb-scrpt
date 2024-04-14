@@ -67,9 +67,9 @@ lib/ae.rb
 lib/aem.rb
 lib/kae.rb
 lib/osax.rb
-lib/rb-scpt.rb
+lib/rb-scrpt.rb
 lib/version.rb
-rb-scpt.gemspec
+rb-scrpt.gemspec
 sample/AB_export_vcard.rb
 sample/AB_list_people_with_emails.rb
 sample/Add_iCal_event.rb
