@@ -12,5 +12,7 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/test_*.rb"]
   s.authors = ["hhas","Brendan Thompson"]
   s.email = 'm.kennedy@me.com'
-  s.required_ruby_version = ">= 1.8"
+  s.license = "AML"
+
+  s.required_ruby_version = ">= 2.7"
 end

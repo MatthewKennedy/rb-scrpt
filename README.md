@@ -1,7 +1,7 @@
-# rb-scrpt
+# rb-scpt
 
 ## Overview
-Ruby AppleScript (rb-scrpt) is a high-level, user-friendly Apple event bridge that allows you to control scriptable Mac OS X applications using ordinary Ruby scripts.
+Ruby AppleScript (rb-scpt) is a high-level, user-friendly Apple event bridge that allows you to control scriptable Mac OS X applications using ordinary Ruby scripts.
 
 ## Contributing
 
